@@ -36,7 +36,7 @@ H = α·p + βm,    α = (0  σ),    β = (I   0 )
 
 ---
 
-## Nível Básico
+## Parte 1
 
 ### `eletron1D/` — Pacote de Onda Livre e Zitterbewegung
 
@@ -74,7 +74,7 @@ python dirac_1d.py --save             # salva animação como GIF
 
 ---
 
-## Nível Intermediário
+## Parte 2
 
 ### `hydrogen/` — Átomo de Hidrogênio Relativístico
 
@@ -182,7 +182,7 @@ python dirac_landau.py --nmax 15      # mais níveis
 
 ---
 
-## Nível Avançado
+## Parte 3
 
 ### `antimat/` — Mar de Dirac e Antimatéria
 
